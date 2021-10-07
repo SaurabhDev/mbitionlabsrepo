@@ -8,6 +8,8 @@ public class DevOpsCodeChallengeApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DevOpsCodeChallengeApplication.class, args);
+		
+		
 	}
 
 }
